@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #000;
+  }
+  
+  .jumbotron {
+    background-image: url('pizza.jpg');
+    background-size: cover;
+    color: white;
+    padding: 150px 0; /* Espacio adicional en la parte superior e inferior */
+    text-align: center; /* Centrar el texto */
+  }
+  
+  .section {
+    padding: 50px 0; /* Espacio adicional alrededor de las secciones */
+  }
+  
+  .table th,
+  .table td {
+    color: white; /* Color del texto en las celdas de la tabla */
+  }
+  
+  .btn {
+    margin-top: 20px; /* Espacio superior */
+    margin-bottom: 20px; /* Espacio inferior */
+  }
+  
